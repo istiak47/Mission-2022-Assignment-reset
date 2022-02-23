@@ -1,0 +1,233 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+/* Stay Focused Section Start  */
+
+#stay-focused-section{
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 207px;
+    margin-left: 156px;
+}
+.halves{
+    width: 50%;
+}
+
+.red-line {
+  border-left: 6px solid #FF5959;
+  height: 200px;
+  border-radius: 6px;
+  
+}
+.orange{
+    color: #FFAD5A;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    color: white; 
+    font-weight: 700;
+}
+
+.reposition{
+    padding-top: 90px;
+}
+.big-text{
+    font-size: 40px;
+    padding-left: 10px;
+}
+.img-section-one{
+    padding-left: 300px;
+}
+
+/* Stay Focused Section END  */
+
+
+/* mission 2022 heading section start */
+
+#mission-2022-heading{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+
+/* mission 2022 heading section END */
+
+
+
+/* mission 2022 box section start */
+
+#mission-2022-box-section{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.pics{
+    width: 30%;
+    padding-left: 40px;
+    padding-top: 30px;
+    
+}
+.pics h1{
+    text-align: center;
+    font-size: 35px;
+}
+.pics text{
+    align-content: center justify;
+}
+.vertical{
+    vertical-align: middle;
+    
+}
+.text-decoration{
+    text-decoration: none;
+    color: black;
+}
+
+.box{
+    border-right: 1px solid;
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px rgb(77, 77, 77);
+}
+
+.first-box{
+    background-color: rgba(79, 157, 166, 0.486)3;
+}
+.second-box{
+    background-color: #ff59597e;
+}
+.third-box{
+    background-color: rgba(211, 168, 52, 0.493);
+}
+
+/* mission 2022 box section END */
+
+/* Develop Without Limits Section Start */
+.develop-without-limits{
+    display: flex;
+    margin-bottom: 100px;
+    padding-left: 10%;
+}
+.img-coding{
+    width: 50%;
+    padding-right: 5%;
+}
+.img-coding img{
+    width: 60%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 10%;
+}
+.develop-without-limits h2{
+    font-size: 40px;
+}
+
+.develop-without-limits p{
+    text-align: left;
+    padding-right: 5%;
+}
+
+/* Develop Without Limits Section END */
+
+/* know our global community Section START */
+
+.global-community-section{
+    display: flex;
+    margin-bottom: 100px;
+    padding-left: 10%;
+}
+.img-project{
+    width: 50%;
+    padding-right: 5%;
+}
+.img-project img{
+    width: 60%;
+    padding-left: 10%;
+    padding-right: 0%;
+    padding-top: 10%;
+}
+.global-community-section h2{
+    font-size: 40px;
+}
+
+.global-community-section p{
+    text-align: left;
+    padding-right: 5%;
+}
+
+/* know our global community Section END */
+
+
+
+
+
+/* Bonus heading section start */
+
+#bonus-heading{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+
+/* Bonus heading section END */
+
+
+/* Bonus main Section Start */
+.bonus-main{
+    display: flex;
+    margin-bottom: 100px;
+    padding-left: 10%;
+}
+.img-to-do{
+    width: 50%;
+    padding-right: 5%;
+}
+.img-to-do img{
+    width: 60%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 10%;
+}
+.bonus-main h2{
+    font-size: 40px;
+}
+
+.bonus-main p{
+    text-align: left;
+    padding-right: 5%;
+}
+
+/* Bonus main Section END */
+
+
+
+
+
+
+/* Footer Start */
+.footer{
+    background-color:#0b0e17;
+    height: 150px;
+    text-align: center;
+    padding-top: 2%;
+}
+.year{
+    color: 
+rgba(255, 89, 89, 1);
+}
+.mission{
+    color: white;
+}
+.footer p{
+    color: rgba(217, 219, 225, 1);
+}
+/* Footer End */
